@@ -29,11 +29,6 @@ def testMessagePattern(l:List[Message]):String = {
    }
 }
 
-
-
-
-
-
 val messageList = List(
 Message("tom@gmail.com","Message text 1"),
 Message("7742394590","Message text 2"),
